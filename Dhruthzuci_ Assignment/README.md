@@ -1,4 +1,4 @@
-### Dhruthzuci Questions
+### Dhruthzuci Assignment Questions
 #### Question1 :
 Write API: Using Python Flask or ExpressJS, Write a REST API that reads the body and  returns JSON.
  
