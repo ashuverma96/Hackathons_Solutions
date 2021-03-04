@@ -18,6 +18,9 @@ Write API: Using Python Flask or ExpressJS, Write a REST API that reads the body
 
 ### Output of Question1
 
+![Output_Ques1](https://user-images.githubusercontent.com/63055827/110026007-1c46e600-7d56-11eb-803e-57cedf3843fa.png)
+
+
 
 
 #### Question 2:
